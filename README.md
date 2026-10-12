@@ -21,6 +21,10 @@ uvicorn app.main:app --port 8000 --reload
 ```
 MongoDB **6.0 or newer** is required (the grader uses 7.0). MongoDB Atlas free tier (M0) works.
 
+## Project Demo Video
+
+[Watch the 1-minute project demonstration](https://drive.google.com/file/d/1eywfxrBTMo8E6Q9jFdp5Sqfp7KffEdX4/view?usp=sharing)
+
 ## Submit
 A public Git repository with `app/main.py`, `requirements.txt`, `REVIEW.md`, `DECISIONS.md` and a short `README.md`.
 No `.env`, no secrets, no Dockerfile.
